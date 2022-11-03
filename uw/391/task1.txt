@@ -1,0 +1,9 @@
+# Write your answers to task1 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.escape+> can move the cursor to the end of the file.
+2.escape+< can move the cursor to the beginning of the file.
+3.escape+X goto-line enter 50 enter command move to line 50 of the file.
+4.Ctrl+s chocolate can search for the text "chocolate".
+5.Ctrl+s to go to the next match from the result.

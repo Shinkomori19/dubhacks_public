@@ -1,0 +1,11 @@
+# Write your answers to task3 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.emacs
+2.I typed emacs to open emacs. Then, C-x,C-f let me find a file that I would like to open. I used Enter to open.
+3.Press C-e to move to the end of the line. Then, start typing "animal".
+4.Press C-a to move to the front of the line and start typing "animal"
+5.Press C+x, then C+s.
+6.Press C+x, then C-c to finish using emacs.
+

@@ -1,0 +1,7 @@
+# Write your answers to task3 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.C+u, then type number of line to delete, and then C+k
+2.C+y
+3.C+Space, then move 8 lines(by C-f), M-w
